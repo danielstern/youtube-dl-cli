@@ -1,0 +1,17 @@
+{
+  "name": "youtube-dl-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dl.js",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "valid-url": "^1.0.9",
+    "youtube-dl": "1.11.1"
+  },
+  "devDependencies": {},
+  "bin": {
+    "youtube": "dl.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
